@@ -11,16 +11,7 @@ A C++ program that performs various linked list operations, including sorting, m
 - **Merging Lists**: Merges two sorted lists into one sorted list.
 
 ## Example Output
+![image](https://github.com/user-attachments/assets/5d4ea307-c1f8-45e1-bb92-de04f98d6f8c)
 
-```plaintext
-Sorted List: 2 -> 3 -> 5 -> 7 -> 11 -> NULL
-After deleting first node: 3 -> 5 -> 7 -> 11 -> NULL
-After deleting last node: 3 -> 5 -> 7 -> NULL
-After deleting index 1: 3 -> 7 -> NULL
-Front List: 3 -> NULL
-Back List: 7 -> NULL
-List A before sorting: 10 -> 5 -> 20 -> NULL
-List B before sorting: 15 -> 3 -> 25 -> NULL
-Sorted List A: 5 -> 10 -> 20 -> NULL
-Sorted List B: 3 -> 15 -> 25 -> NULL
-Merged Sorted List: 3 -> 5 -> 10 -> 15 -> 20 -> 25 -> NULL
+## File Directory
+![image](https://github.com/user-attachments/assets/0f8e2049-90c4-43ea-940e-a0870665b129)
